@@ -1,12 +1,23 @@
-## Hi there 👋🏽
-### Portfolio: http://angelorl.com
-🧑🏽 About me:
+### Hi there 👋🏾
+#### Portfolio: http://angelorl.com 
+####  🧑🏾‍🦱 About me:
+- 👨🏾‍💻 Software Engineer
+- 💻 Technologies: Javascript, Next.js, React.js, Redux.js, Node.js, Express.js, Python, Flask, HTML, CSS, PostGreSQL, Sequelize, Git, Docker
 
-    👨🏾‍💻 Software Engineer 
-    💻 Technologies: Javascript, Next.js, React.js, Redux.js, Node.js, Express.js, HTML, CSS, PostGreSQL, Sequelize, Git,
+#### 🌱 I’m currently learning Typescript
 
-🌱 I’m currently learning Typescript
-📫 How to reach me:
+####  📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/angelo-longoria/
+- Email: arlongoria@outlook.com
 
-    LinkedIn: https://www.linkedin.com/in/angelo-longoria/
-    Email: arlongoria@outlook.com
+<!--
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
