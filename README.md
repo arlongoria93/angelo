@@ -1,5 +1,5 @@
-##Hi there 👋🏽
-Portfolio: http://angelorl.com
+## Hi there 👋🏽
+### Portfolio: http://angelorl.com
 🧑🏽 About me:
 
     👨🏾‍💻 Software Engineer 
