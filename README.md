@@ -1,5 +1,5 @@
 ### Hi there 👋🏾
-#### Portfolio: http://angelolongoria.com
+#### Portfolio: http://angelolongoria.dev
 ####  🧑🏾‍🦱 About me:
 - 👨🏾‍💻 Software Engineer
 - 💻 Technologies: Javascript, Next.js, React.js, Redux.js, Node.js, Express.js HTML, CSS, PostGreSQL, Sequelize, Git, Prisma
