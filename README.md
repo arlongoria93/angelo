@@ -3,7 +3,7 @@
 ####  🧑🏾‍🦱 About me:
 - 👨🏾‍💻 Software Engineer
 - 💻 Technologies: Javascript, Next.js, React.js, Redux.js, Node.js, Express.js HTML, CSS, PostGreSQL, Sequelize, Git, Prisma
-- 🔭 I’m currently working on building projects to add to my redesigned portfolio!
+- 🔭 I’m currently working on a e-commerce website to add to my portfolio
 #### 🌱 I’m currently learning Typescript
 
 ####  📫 How to reach me:
